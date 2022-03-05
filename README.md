@@ -1,2 +1,2 @@
-# bash_scripting
+# bash_aman
 hacker life is gud life
